@@ -2,3 +2,8 @@ env:
   node: false
   browser: false
   commonjs: true
+
+rules:
+  linebreak-style:
+    - error
+    - unix
